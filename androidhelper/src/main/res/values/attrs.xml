@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DanmuView">
+        <attr name="android:textSize" />
+        <attr name="android:textColor" />
+        <attr name="itemPaddingEnd" format="dimension"/>
+        <attr name="itemPaddingStart" format="dimension"/>
+        <attr name="itemPaddingTop" format="dimension"/>
+        <attr name="itemPaddingBottom" format="dimension"/>
+        <attr name="itemPadding" format="dimension"/>
+        <attr name="background" format="reference" />
+        <attr name="speed" format="float"/>
+        <attr name="itemHeight" format="dimension"/>
+        <attr name="spacingX" format="dimension"/>
+        <attr name="spacingY" format="dimension"/>
+        <attr name="isTransparent" format="boolean"/>
+        <attr name="count" format="integer"/>
+    </declare-styleable>
+
+</resources>
